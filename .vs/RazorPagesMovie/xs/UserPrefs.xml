@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{EAA19200-7FFA-4FDC-81B3-7EE9DA43FBB4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie.csproj">
+    <Files>
+      <File FileName="Models/Movie.cs" Line="13" Column="2" />
+      <File FileName="Models/MovieContext.cs" Line="14" Column="2" />
+      <File FileName="appsettings.json" Line="11" Column="2" />
+      <File FileName="Startup.cs" Line="4" Column="1" />
+      <File FileName="RazorPagesMovie.csproj" Line="12" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
